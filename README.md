@@ -1,0 +1,1 @@
+An e-learning company that offers courses on programming. Most of their courses are on web and mobile development, but also cover many other domains, like data science, game development, etc. They want to promote their product and would like to invest some money in advertisement. The goal in this project is to find out the two best markets to advertise their product in.
